@@ -43,7 +43,7 @@ To change between different registration methods and options, select the corresp
 
 5. References
 
-[1] Henke, M., Junker, A., Neumann, K., Altmann, T., Gladilin, E., Comparison of Feature Point Detectors for Multimodal Image Registration in Plant Phenotyping (unpublished)
+[1] Henke M, Junker A, Neumann K, Altmann T, Gladilin E (2019) Comparison of feature point detectors for multimodal image registration in plant phenotyping. PLoS ONE 14(9): e0221203. https://doi.org/10.1371/journal.pone.0221203
 
 (C) 2019, Image Analysis Group, IPK Gatersleben
 http://www.ipk-gatersleben.de/signature/impressum/
